@@ -3,3 +3,7 @@
 s1_NumPy_Matplotlib/_solutions
 
 venv/
+
+.DS_Store
+
+.ipynb_checkpoints/
